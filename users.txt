@@ -1,0 +1,9 @@
+root
+admin
+test
+guest
+info
+adm
+user
+administrator
+ftp
